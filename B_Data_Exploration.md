@@ -10,7 +10,7 @@ ORDER BY 2 DESC LIMIT 3;
 ````
 **Answer:**
 
-<img width="239" alt="image" src="/images/RegionAnalysis.png">
+<img width="450" alt="image" src="/images/RegionAnalysis.png">
 
 **Region and Demographic Analysis**
 ````sql
@@ -37,7 +37,7 @@ as day_of_week FROM cleaned_data ORDER BY 1;
 ````
 **Answer:**
 
-<img width="239" alt="image" src="/images/Q2a.png">
+<img width="450" alt="image" src="/images/Q2a.png">
 
 - From this, we observe entries for day of the week = 1 which is Monday.
 
@@ -62,7 +62,7 @@ GROUP BY 1 ORDER BY 1;
 
 **Answer:**
 
-<img width="318" alt="image" src="/images/Q2c.png">
+<img width="450" alt="image" src="/images/Q2c.png">
 
 **4. What is the total sales for each region for each month?**
 
@@ -93,7 +93,7 @@ ORDER BY 2 DESC;
 
 **Answer:**
 
-<img width="319" alt="image" src="/images/Q2e.png">
+<img width="450" alt="image" src="/images/Q2e.png">
 
 **6. What is the percentage of sales for Retail vs Shopify for each month?**
 

@@ -64,6 +64,6 @@ ROUND(sales*1.0/transactions,2) AS avg_transaction, customer_type, transactions,
 SELECT * FROM cleaned_data;
 ````
 <img width="1148" alt="image" src="/images/Q1.png">
-***
+
 
 

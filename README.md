@@ -26,7 +26,8 @@ The key business question to answer are the following:
 ## Entity Relationship Diagram
 
 For this case study there is only a single table: data_mart.weekly_sales
-<img width="287" alt="image" src="https://8weeksqlchallenge.com/images/case-study-5-erd.png">
+<div style="text-align:center"><img width="287" alt="image" src="https://8weeksqlchallenge.com/images/case-study-5-erd.png"></div>
+
 
 Here are some further details about the dataset:
 

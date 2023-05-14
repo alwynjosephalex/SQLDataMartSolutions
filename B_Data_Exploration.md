@@ -10,7 +10,7 @@ ORDER BY 2 DESC LIMIT 3;
 ````
 **Answer:**
 
-<img width="110" alt="image" src="/images/Additional.png">
+<img width="110" alt="image" src="/images/RegionAnalysis.png">
 
 **Region and Demographic Analysis**
 ````sql
@@ -26,7 +26,7 @@ WHERE rank=1 ORDER BY total_sales DESC;
 ````
 **Answer:**
 
-<img width="110" alt="image" src="/images/Additional2.png">
+<img width="110" alt="image" src="/images/RegionDemo.png">
 
 
 **1. What day of the week is used for each week_date value?**

@@ -10,7 +10,7 @@ ORDER BY 2 DESC LIMIT 3;
 ````
 **Answer:**
 
-<img width="110" alt="image" src="/images/RegionAnalysis.png">
+<img width="239" alt="image" src="/images/RegionAnalysis.png">
 
 **Region and Demographic Analysis**
 ````sql
@@ -26,7 +26,7 @@ WHERE rank=1 ORDER BY total_sales DESC;
 ````
 **Answer:**
 
-<img width="110" alt="image" src="/images/RegionDemo.png">
+<img width="641" alt="image" src="/images/RegionDemo.png">
 
 
 **1. What day of the week is used for each week_date value?**
@@ -37,7 +37,7 @@ as day_of_week FROM cleaned_data ORDER BY 1;
 ````
 **Answer:**
 
-<img width="110" alt="image" src="/images/Q2a.png">
+<img width="239" alt="image" src="/images/Q2a.png">
 
 - From this, we observe entries for day of the week = 1 which is Monday.
 
